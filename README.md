@@ -1,6 +1,6 @@
 # Postgis + pgBackRest
 
-_Currently used Postgres version: [18.3](https://www.postgresql.org/docs/18/release-18-3.html)_
+_Currently used Postgres version: [18.4](https://www.postgresql.org/docs/18/release-18-4.html)_
 
 This is a Docker image based on a multi-architecture [Postgis image](https://github.com/baosystems/docker-postgis) and [pgBackRest](https://pgbackrest.org) installed. We use the Debian based Postgis image to simply install `pgBackRest` with `apt`.
 
